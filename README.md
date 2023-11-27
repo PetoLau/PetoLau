@@ -7,9 +7,9 @@
   <img align="left" alt="Peter's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/twitter.svg" />
 </a>
 
-<br> 
+<br> <br />
 <br> My name is Peter. I'm Data Scientist.
-<br> 🔭 Currently as AI & Revenues assurance lead at [PowereX](https://www.powerex.io/).
+<br> 🔭 Currently as AI & Revenues assurance lead at [PowereX](https://www.powerex.io).
 <br> 🌱 I am passionate about Time-series Forecasting and Machine Learning in general.
 <br> ⚡ Recently I worked on projects about Time-series Forecasting in energy-sector - as electricity consumption, system imbalance, or spot electricity prices.
 
