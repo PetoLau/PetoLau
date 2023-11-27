@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/peter-laurinec-590a8a90/">
+  <img align="left" alt="Peter's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/petolauri">
+  <img align="left" alt="Peter's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/twitter.svg" />
+</a>
+
+
 <!--
 **PetoLau/PetoLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
